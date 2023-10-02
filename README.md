@@ -12,3 +12,14 @@ Resultado dos estudos e mini-projetos produzidos através dos cursos de JavaScri
   - Operador Ternário
   - Funções
   - (Ex) Fibonacci
+
+- Arrays
+  - Manipulando Arrays I
+  - Manipulando Arrays II
+  - Funções Callback
+  - Laços
+
+- Objetos
+  - Objeto Literal
+  - Deletando Objetos
+  - Teste I: Classe
