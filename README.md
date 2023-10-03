@@ -2,7 +2,7 @@
 
 Resultado dos estudos e mini-projetos produzidos através dos cursos de JavaScript da Alura.
 
-## Indíce
+## Indíce (Estudo)
 
 - Fundamentos
   - Tipo Number
@@ -30,3 +30,7 @@ Resultado dos estudos e mini-projetos produzidos através dos cursos de JavaScri
     - Extensão
     - Manipulação
   - JSON
+
+## Mini Projetos
+
+- Interação com o Usuário (Recebimento, Manipulação e Envio de dados)
