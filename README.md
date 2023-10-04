@@ -34,3 +34,10 @@ Resultado dos estudos e mini-projetos produzidos através dos cursos de JavaScri
 ## Mini Projetos
 
 - Interação com o Usuário (Recebimento, Manipulação e Envio de dados)
+
+- HTML Canvas
+  - Movimentação de Objetos
+  - Plotagem de Gráficos
+  - Desenho
+  - Jogo: Acerte o Alvo
+  - Pintura em Tela
